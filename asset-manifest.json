@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.710da462.css",
-    "main.js": "/static/js/main.57a456c7.js",
-    "static/js/453.10d074c4.chunk.js": "/static/js/453.10d074c4.chunk.js",
-    "index.html": "/index.html",
-    "main.710da462.css.map": "/static/css/main.710da462.css.map",
-    "main.57a456c7.js.map": "/static/js/main.57a456c7.js.map",
-    "453.10d074c4.chunk.js.map": "/static/js/453.10d074c4.chunk.js.map"
+    "main.css": "/usability-app-umb/static/css/main.710da462.css",
+    "main.js": "/usability-app-umb/static/js/main.cacc5e34.js",
+    "static/js/453.10d074c4.chunk.js": "/usability-app-umb/static/js/453.10d074c4.chunk.js",
+    "index.html": "/usability-app-umb/index.html",
+    "main.710da462.css.map": "/usability-app-umb/static/css/main.710da462.css.map",
+    "main.cacc5e34.js.map": "/usability-app-umb/static/js/main.cacc5e34.js.map",
+    "453.10d074c4.chunk.js.map": "/usability-app-umb/static/js/453.10d074c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.710da462.css",
-    "static/js/main.57a456c7.js"
+    "static/js/main.cacc5e34.js"
   ]
 }
